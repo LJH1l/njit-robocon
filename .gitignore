@@ -1,0 +1,13 @@
+.venv/
+venv/
+env/
+dataset/
+yolo_dataset/
+runs/
+*.pt
+__pycache__/
+*.pyc
+*.log
+.vscode/
+*.zip
+oak_python/
